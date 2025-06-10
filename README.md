@@ -4,19 +4,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owenswebdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="owenswebdevelopment" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on [Pawkit](https://github.com/owenswebdevelopment/pawkit)
+ 🔭 I’m currently working on [Pawkit](https://github.com/owenswebdevelopment/pawkit)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://owennewsome.net/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://owennewsome.net/)
 
-- 💬 Ask me about **Ruby on Rails, Stimulus JS**
+ 💬 Ask me about **Ruby on Rails, Stimulus JS**
 
-- 📫 How to reach me **newsomemelford@gmail.com**
+ 📫 How to reach me **newsomemelford@gmail.com**
 
-- ⚡ Fun fact **What do you call a Jamaican**
+ ⚡ Fun fact **What do you call a Jamaican**
 </div>
 <h3 align="center">Connect with me:</h3>
-<p align="cenere">
-<a align="cenere" href="https://linkedin.com/in/owen newsome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owen newsome" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/owen newsome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owen newsome" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
