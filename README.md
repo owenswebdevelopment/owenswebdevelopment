@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Newsome</h1>
-<h3 align="center">Full-Stack Developer. 🍽️ Eat | 😴 Sleep | 💻 Code</h3>
+<h3 align="center">Full-Stack Developer. My hobbies are: 🍽️ Eat | 😴 Sleep | 💻 Code</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owenswebdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="owenswebdevelopment" /> </p>
 
