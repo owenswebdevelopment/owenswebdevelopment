@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=owenswebdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="owenswebdevelopment" /> </p>
 
 <div align="center">
- 🔭 I’m currently working on [Pawkit](https://github.com/owenswebdevelopment/pawkit)
+ 🔭 I’m currently working on a few Projects using GCP
 
  👨‍💻 All of my projects are available at [Portfolio](https://owennewsome.net/)
 
